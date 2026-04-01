@@ -25,3 +25,22 @@ KEY FEATURES:
 9. Timetable Management
 10. Academic Performance Analytics
 
+TECH STACK
+1. Frontend
+   1. HTML5
+   2. CSS3
+   3. JavaScript
+   4. React.js
+   5. Bootstrap / Tailwind CSS
+
+2. Backend
+   1. Node.js
+   2. Express.js
+   3. Python (Django / Flask)
+      
+3. Database
+   1. MySQL / PostgreSQL
+   2. MongoDB
+
+
+
