@@ -41,23 +41,59 @@ TECH STACK
 3. Database
    1. MySQL / PostgreSQL
    2. MongoDB
-Cloud & Deployment
-AWS / Microsoft Azure / Google Cloud
-Firebase Hosting
-Vercel / Netlify
-Analytics & AI
-Python
-Pandas, NumPy
-Scikit-learn
-Notifications
-Firebase Cloud Messaging
-Twilio API
-SMTP / Nodemailer
-Development Tools
-VS Code
-Git & GitHub
-Postman
-Figma / Canva
+      
+4. Cloud & Deployment
+   1. AWS / Microsoft Azure / Google Cloud
+   2. Firebase Hosting
+   3. Vercel / Netlify
+      
+5. Analytics & AI
+   1. Python
+   2. Pandas, NumPy
+   3. Scikit-learn
+
+6. Notifications
+   1. Firebase Cloud Messaging
+   2. Twilio API
+   3. SMTP / Nodemailer
+
+7. Development Tools
+   1. VS Code
+   2. Git & GitHub
+   3. Postman
+   4. Figma / Canva
+
+DATA & RESOURCES
+1. Data Used
+   1. Student Data: ID, Name, Class, Contact Details, Parent Info
+   2. Teacher Data: ID, Subject, Department, Schedule
+   3. Academic Data: Attendance, Marks, Grades, Assignments
+   4. Administrative Data: Timetable, Subjects, Announcements
+   5. Analytics Data: Performance trends, attendance %, reports
+  
+2. Data Sources
+   1. School records (student & staff details)
+   2. Teacher inputs (attendance, marks)
+   3. Student submissions (assignments)
+   4. System-generated data (reports & logs)
+
+3. Database Resources
+   1. MySQL / PostgreSQL (structured data)
+   2. MongoDB (flexible data storage)
+   3. Cloud storage (documents & files)
+
+4. Software Resources
+   1. VS Code (development)
+   2. Git & GitHub (version control)
+   3. Postman (API testing)
+   4. Figma / Canva (UI design)
+   5. Firebase / AWS (hosting & backend services)
+      
+5. Hardware Resources
+   1. Laptop / Desktop
+   2. Smartphone (testing)
+   3. Cloud server
+   4. Internet connectivity
 
 
 
