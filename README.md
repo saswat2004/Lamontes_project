@@ -41,6 +41,23 @@ TECH STACK
 3. Database
    1. MySQL / PostgreSQL
    2. MongoDB
+Cloud & Deployment
+AWS / Microsoft Azure / Google Cloud
+Firebase Hosting
+Vercel / Netlify
+Analytics & AI
+Python
+Pandas, NumPy
+Scikit-learn
+Notifications
+Firebase Cloud Messaging
+Twilio API
+SMTP / Nodemailer
+Development Tools
+VS Code
+Git & GitHub
+Postman
+Figma / Canva
 
 
 
