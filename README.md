@@ -95,5 +95,95 @@ DATA & RESOURCES
    3. Cloud server
    4. Internet connectivity
 
+PROJECT STRUCTURE
+1. Frontend (Client Side)
+   Frontend/
+│
+├── components/
+│   ├── Navbar.js
+│   ├── Sidebar.js
+│   ├── Dashboard.js
+│
+├── pages/
+│   ├── Login.js
+│   ├── StudentDashboard.js
+│   ├── TeacherDashboard.js
+│   ├── ParentDashboard.js
+│   ├── AdminDashboard.js
+│
+├── services/
+│   ├── api.js
+│
+├── styles/
+│   ├── main.css
+│
+└── App.js
 
 
+2. Backend (Server Side)
+   Backend/
+│
+├── controllers/
+│   ├── authController.js
+│   ├── studentController.js
+│   ├── attendanceController.js
+│   ├── assignmentController.js
+│
+├── routes/
+│   ├── authRoutes.js
+│   ├── studentRoutes.js
+│   ├── attendanceRoutes.js
+│
+├── models/
+│   ├── Student.js
+│   ├── Teacher.js
+│   ├── Attendance.js
+│   ├── Assignment.js
+│
+├── middleware/
+│   ├── authMiddleware.js
+│
+├── config/
+│   ├── db.js
+│
+└── server.js
+
+3. Database Structure
+   Database/
+│
+├── Students Table
+├── Teachers Table
+├── Attendance Table
+├── Assignments Table
+├── Exams Table
+└── Users Table
+
+4. Analytics Module
+   Analytics/
+│
+├── data_processing.py
+├── model_training.py
+├── prediction.py
+└── visualization.py
+
+5. Notification System
+   Notifications/
+│
+├── emailService.js
+├── smsService.js
+└── pushNotifications.js
+
+6. Deployment Structure
+   Deployment/
+│
+├── Frontend (Vercel / Netlify)
+├── Backend (AWS / Render)
+└── Database (Cloud DB - MongoDB Atlas / MySQL)
+
+7. Overall Architecture
+   User → Frontend → Backend → Database
+                      ↓
+               Analytics Engine
+                      ↓
+              Notification System
+   
